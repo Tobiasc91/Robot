@@ -1,0 +1,25 @@
+input {
+    padding: 3px;
+    margin: 2px;
+    border: 1px solid;
+}
+
+body {
+    margin: 1rem;
+}
+
+button {
+    margin-top: 1rem;
+}
+
+.gridsize {
+    width: 2rem;
+}
+
+.startpos {
+    width: 2rem;
+}
+
+.walkdir {
+    width: 8rem;
+}
